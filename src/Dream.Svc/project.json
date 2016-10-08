@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0-*",
+  "description": "Dream.Svc Class Library",
+  "authors": [ "Allen" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "dnx451": { }
+  },
+  "dependencies": {
+    "Dream.Repo": "1.0.0-*",
+    "EntityFramework.Core": "7.0.0-rc1-final"
+  }
+}
